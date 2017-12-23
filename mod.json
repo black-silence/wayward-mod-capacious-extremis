@@ -1,0 +1,15 @@
+{
+	"name": "Capacious Extremis",
+	"description": "Magic chests with much more space inside.",
+	"version": "1.0.0",
+	"author": "black silence",
+	"unloadable": true,
+	"file": "capaciousextremis.js",
+	"hooks": [
+		"OnBuild"
+	],
+	"compatibleMinorVersions": [
+		5
+	],
+	"publishedFileId": "1240426631"
+}
