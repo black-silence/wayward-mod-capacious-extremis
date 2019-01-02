@@ -7,7 +7,7 @@
 	"multiplayerCompatible": true,
 	"file": "capaciousextremis.js",
 	"compatibleMinorVersions": [
-		6
+		6, 7
 	],
 	"publishedFileId": "1240426631"
 }
